@@ -37,7 +37,7 @@ const About = () => {
 				</div>
 
 				<div>
-					<h2 className="text-3xl text-center md:text-4xl font-extrabold bg-gradient-to-l from-blue-300 to-teal-200 text-transparent bg-clip-text inline-block py-1">
+					<h2 className="text-3xl text-center md:text-4xl font-extrabold dark:bg-gradient-to-l dark:from-blue-300 dark:to-teal-200 bg-gradient-to-r from-red-600 to-orange-400 text-transparent bg-clip-text inline-block py-1">
 						Full-Stack Developer
 					</h2>
 				</div>
@@ -51,7 +51,7 @@ const About = () => {
 
 				<div className="flex flex-wrap justify-center items-center gap-2 mt-8">
 					<Link
-						href="anmolawasthi117@gmail.com"
+						href="mailto:anmolawasthi117@gmail.com"
 						target="_blank"
 					>
 						<Button
@@ -62,7 +62,7 @@ const About = () => {
 						</Button>
 					</Link>
 
-					<Link href="https://drive.google.com/file/d/1uW43TOUxF_hRN-CK8FUxlVtK5MlUWG4O/view?usp=drive_link">
+					<Link href="https://drive.google.com/file/d/1uW43TOUxF_hRN-CK8FUxlVtK5MlUWG4O/view?usp=sharing">
 						<HyperButton>
 							Resume <Download size={18} />
 						</HyperButton>
