@@ -62,7 +62,7 @@ const About = () => {
 						</Button>
 					</Link>
 
-					<Link href="https://drive.google.com/file/d/1uW43TOUxF_hRN-CK8FUxlVtK5MlUWG4O/view?usp=sharing">
+					<Link href="https://drive.google.com/file/d/19XCfjct57DeBsj5Pz_bX2L0hZtVgH-ZI/view?usp=sharing">
 						<HyperButton>
 							Resume <Download size={18} />
 						</HyperButton>
