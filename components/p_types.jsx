@@ -8,7 +8,7 @@ const P_types = () => {
   return (
     <section>
       <div className="space-y-2">
-      <Title>Projecs.</Title>
+      <Title>Projects.</Title>
         {projects_types.map((project, index) => (
           <Link key={index} href={project.route}>
            

@@ -2,16 +2,16 @@ export const skills = [
   {
     title: "Frontend",
     stacks: [
-      "https://portfolio.manjhss.tech/assets/tech-icons/html.png",
-      "https://portfolio.manjhss.tech/assets/tech-icons/css.png",
-      "https://portfolio.manjhss.tech/assets/tech-icons/tailwind.png",
-      "https://portfolio.manjhss.tech/assets/tech-icons/javascript.png",
+      "https://imgs.search.brave.com/BLp5uFQdfXSqmpA6T4d6gQp2CLZC5UYpMHLepquR97Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw",
+      "https://imgs.search.brave.com/vBqGzFEGVXZwpcQTKVR26ON6C9njAGJMcLZthdnQ0b4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYyL0NTUzNfbG9n/by5zdmc",
+      "https://imgs.search.brave.com/WNxGnfQEvbgOy-66HgDZiPdK5ARVsvzhVQOvpcBelos/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc",
+      "https://imgs.search.brave.com/xl1jKnU7is8_lbDdoW--gi84GLzDVtlJWKHraMfD3kk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MTNiNjRmZTMwZTg1/MzAwMDRiYTNhMDMu/cG5n",
       "https://imgs.search.brave.com/MZ9KmLpBYsk6DhaTgZ8iNBSyKGZAba68rtt2wOHjX4U/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9nc2FwLWdyZWVu/c29jay5zdmc.svg",
       "https://imgs.search.brave.com/zhySgsGa06TulpruUHJzTxsAQzJY0g9JmL2ix61dIfE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mcmFtZXItbW90/aW9uLnN2Zw.svg",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
       "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png",
-      "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png",
+      "https://imgs.search.brave.com/FWFXBFbp54UwfCK163RYhm5AAPwcPiMBnU1gJpgIiLM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky",
 		
       "https://avatars.githubusercontent.com/u/139895814?s=280&v=4",
 
@@ -21,26 +21,27 @@ export const skills = [
   {
     title: "Backend",
     stacks: [
-      "https://portfolio.manjhss.tech/assets/tech-icons/node.png",
-      "https://portfolio.manjhss.tech/assets/tech-icons/express.png",
+      "https://imgs.search.brave.com/wgX9w9J00j3mJir4Jqu1UK8CcT-6aVe7_VSTy38gTBw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbm9kZWpz/LWxvZ28tRkJFMTIy/RTM3Ny1zZWVrbG9n/by5jb20ucG5n",
+      "https://imgs.search.brave.com/VArtKweXTqkrY_GQ_J9yWXegqDGq7lJ2gFrX0jb8SGY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZmF2cG5nLmNvbS8x/Ni8yNS8xOC9leHBy/ZXNzLWpzLW5vZGUt/anMtamF2YXNjcmlw/dC1tb25nb2RiLXBu/Zy1mYXZwbmctcFBl/TURRVXpwcXNmaTRN/cTFRaVdFdExyQV90/LmpwZw",
 	  "https://imgs.search.brave.com/52CXcy1XF4CNRBRHVaqnc0JFreQE7sdUFqNlwDC0Kig/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9m/MDcwZDEzNGE4Zjhj/MWE1YjY2MzRkZDky/YjI5YWUzMTcwZWRj/OTNiMjZiMGIzNGVi/OTc2MjlmOWMyYmE2/NWU5LzY4NzQ3NDcw/NzMzYTJmMmY2MTc1/NzQ2ODZhNzMyZTY0/NjU3NjJmNjk2ZDY3/MmY2YzZmNjc2ZjJk/NzM2ZDJlNzA2ZTY3.jpeg",
     ]
   },
   {
     title: "Databases",
     stacks: [
-      "https://portfolio.manjhss.tech/assets/tech-icons/mongodb.png",
-      "https://avatars.githubusercontent.com/u/25003669?s=280&v=4",
-	  "https://imgs.search.brave.com/Yfdvfp7w34pYJdEQTVkfStadK3QkhuWazDs-USSPpY0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9m/aXJlYmFzZV9sb2dv/X2ljb25fMTcxMTU3/LnBuZw"
+      "https://imgs.search.brave.com/TW-0IOvYKVp4DAldVEKLCgBVOqj3Hjfu1T8Z2ceC1LI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbW80/MjltNmI3LW1vbmdv/ZGItbG9nby1tb25n/b2RiLW9yaWdpbmFs/LXdvcmRtYXJrLWxv/Z28tZnJlZS1pY29u/LW9mLWRldmljb24u/cG5n",
+	  "https://imgs.search.brave.com/Yfdvfp7w34pYJdEQTVkfStadK3QkhuWazDs-USSPpY0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9m/aXJlYmFzZV9sb2dv/X2ljb25fMTcxMTU3/LnBuZw",
+    "https://imgs.search.brave.com/LregwX1jyAApAgjJIeDcEz6OMTHV9CqkqHGNww5pAvY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MzBiNWNlZjEw/MTRjMGI1ZTRhOWMu/cG5n",
+    "https://imgs.search.brave.com/14osNFB8UbePR5iGhs4iQ7s969an3VdTpmfVIepe3WU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L1Bvc3RncmVz/cWxfZWxlcGhhbnQu/c3Zn"
     ]
   },
   {
     title: "Tools",
     stacks: [
       "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png",
-      "https://portfolio.manjhss.tech/assets/tech-icons/figma.png",
+      "https://imgs.search.brave.com/bmYIj6mh6JcSY3k215IR3EeMGzcWOkejHJ_PivctqHo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8zLzMzL0Zp/Z21hLWxvZ28uc3Zn/LzY0MHB4LUZpZ21h/LWxvZ28uc3ZnLnBu/Zw",
       "https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png",
-	  "https://imgs.search.brave.com/5YKGmgEXq2sI1ZirbwENwpRzgDrIf3zTv5Yf3hePLzk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3Zjk4ZmNlZjEw/MTRjMGI1ZTQ4YzAu/cG5n"
+	  "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
     ]
   },
   {
@@ -53,10 +54,12 @@ export const skills = [
 	]
   },
   {
-	title : "Cloudes",
+	title : "Dev Ops",
 	stacks : [
 		"https://imgs.search.brave.com/tdIZzmg0nj0U6bo1mZ97YcesJph_cHqa61nSJpGmWvs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnRy/YWN4bi5jb20vbG9n/by9jb21wYW55LzY3/NWY1ZGQxZjBiM2U0/NjFlMDk3MzIyZjVl/NWY5NmU_aGVpZ2h0/PTQwJndpZHRoPTQw.jpeg",
-		"https://imgs.search.brave.com/K0oSYspi3gP9c6gzHSJ8u4kuMCvvNn_xWcfEfrnVrL0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/aGlzdG9yeS5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDYvQVdTLUxvZ28t/MTAyNHg1NzYuanBn"
+		"https://imgs.search.brave.com/K0oSYspi3gP9c6gzHSJ8u4kuMCvvNn_xWcfEfrnVrL0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/aGlzdG9yeS5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDYvQVdTLUxvZ28t/MTAyNHg1NzYuanBn",
+    "https://imgs.search.brave.com/OqXo5o1O30IjWqZOpLH6c0odAoe2xJQqrOuxo6OzNJM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZG9ja2VyLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/NS9zeW1ib2xfYmx1/ZS1kb2NrZXItbG9n/by5wbmc",
+    "https://imgs.search.brave.com/NUSw_KdbrzxKqKVqk_d05CjTl7E5QbQMTrqASrAIWxc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MGE0NGNlZjEw/MTRjMGI1ZTQ5MTcu/cG5n",
 	]
   }
 ];

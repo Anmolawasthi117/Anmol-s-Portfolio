@@ -37,7 +37,7 @@ const About = () => {
 				</div>
 
 				<div>
-					<h2 className="text-3xl text-center md:text-4xl font-extrabold dark:bg-gradient-to-l dark:from-blue-300 dark:to-teal-200 bg-gradient-to-r from-red-600 to-orange-400 text-transparent bg-clip-text inline-block py-1">
+					<h2 className="text-3xl text-center md:text-4xl font-extrabold dark:bg-gradient-to-l dark:from-blue-300 dark:to-teal-200 bg-gradient-to-r from-pink-500 to-yellow-500  text-transparent bg-clip-text inline-block py-1">
 						Full-Stack Developer
 					</h2>
 				</div>
