@@ -7,7 +7,7 @@ export const skills = [
       "https://imgs.search.brave.com/WNxGnfQEvbgOy-66HgDZiPdK5ARVsvzhVQOvpcBelos/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy90YWlsd2luZC1j/c3MtMi5zdmc",
       "https://imgs.search.brave.com/xl1jKnU7is8_lbDdoW--gi84GLzDVtlJWKHraMfD3kk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MTNiNjRmZTMwZTg1/MzAwMDRiYTNhMDMu/cG5n",
       "https://imgs.search.brave.com/jtR57Ud8ueELjY-tmfl8Dw_ScSS02GjTlwoQueeR5sI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0cvZ3JlZW5z/b2NrLWdzYXAtaWNv/bi1sb2dvLTEzQkI0/NTFFODgtc2Vla2xv/Z28uY29tLnBuZw",
-      "https://imgs.search.brave.com/zhySgsGa06TulpruUHJzTxsAQzJY0g9JmL2ix61dIfE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mcmFtZXItbW90/aW9uLnN2Zw.svg",
+      "https://imgs.search.brave.com/xhMkXVZE7DMKBfk6nctyk-4uutxO_E39tgW8VMHDLys/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDdmNmQwNjE5/Mjg3MDVkODRhYmQz/YjYwZThiMTQxMDMx/MTJkMWY4ODZkM2Qy/YTY1ODY1MWMxNjdk/ZmFkNzE1Ny93d3cu/ZnJhbWVyLmNvbS8",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
       "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png",
