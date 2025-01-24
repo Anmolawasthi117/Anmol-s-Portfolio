@@ -17,15 +17,15 @@ const real_world = [
 			"Automated Front Page Generator Reduced manual work by 80% with automated front page creation in single click.70+ downloads in first month with PDF generation feature Improved form completion rates by 20% with responsive UI",
 		],
 	},
-	{
-		badge: "Upcoming",
-		title: "Whisper",
-		githubUrl: "https://github.com/surendra-manjhi/genuine-feedback",
-		previewUrl: "",
-		description: [
-			"Building Whisper (a platform where users can feedback anonymously).",
-		],
-	},
+	// {
+	// 	badge: "Upcoming",
+	// 	title: "Whisper",
+	// 	githubUrl: "https://github.com/surendra-manjhi/genuine-feedback",
+	// 	previewUrl: "",
+	// 	description: [
+	// 		"Building Whisper (a platform where users can feedback anonymously).",
+	// 	],
+	// },
 	{
 		badge: "Responsive",
 		title: "Diversity club",
