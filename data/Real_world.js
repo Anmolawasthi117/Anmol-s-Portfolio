@@ -5,7 +5,7 @@ const real_world = [
 		githubUrl: "https://github.com/Alpharex121/AIROSPHERE",
 		previewUrl: "https://airosphere.vercel.app/",
 		description: [
-			"https://github.com/Alpharex121/AIROSPHERE",
+			`Airosphere is a branch community platform tailored for AI and Robotics students at your college. The name combines "AI" (Artificial Intelligence) , with "Sphere" symbolizing the community aspect. The platform, built collaboratively with a friend using the MERN stack, emphasizes an interactive and engaging user experience. use id: demo , passward:12345 to login in`
 		],
 	},
 	{
