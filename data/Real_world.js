@@ -1,5 +1,23 @@
 const real_world = [
 	{
+		badge: "Responsive",
+		title: "Airospheare",
+		githubUrl: "https://github.com/Alpharex121/AIROSPHERE",
+		previewUrl: "https://airosphere.vercel.app/",
+		description: [
+			"https://github.com/Alpharex121/AIROSPHERE",
+		],
+	},
+	{
+		badge: "Responsive",
+		title: "doc-xify",
+		githubUrl: "https://github.com/Alpharex121/DocXify",
+		previewUrl: "https://doc-xify.vercel.app/",
+		description: [
+			"Automated Front Page Generator Reduced manual work by 80% with automated front page creation in single click.70+ downloads in first month with PDF generation feature Improved form completion rates by 20% with responsive UI",
+		],
+	},
+	{
 		badge: "Upcoming",
 		title: "Whisper",
 		githubUrl: "https://github.com/surendra-manjhi/genuine-feedback",
