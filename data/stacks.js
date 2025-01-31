@@ -23,7 +23,7 @@ export const skills = [
     stacks: [
       "https://imgs.search.brave.com/wgX9w9J00j3mJir4Jqu1UK8CcT-6aVe7_VSTy38gTBw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbm9kZWpz/LWxvZ28tRkJFMTIy/RTM3Ny1zZWVrbG9n/by5jb20ucG5n",
       "https://imgs.search.brave.com/VArtKweXTqkrY_GQ_J9yWXegqDGq7lJ2gFrX0jb8SGY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZmF2cG5nLmNvbS8x/Ni8yNS8xOC9leHBy/ZXNzLWpzLW5vZGUt/anMtamF2YXNjcmlw/dC1tb25nb2RiLXBu/Zy1mYXZwbmctcFBl/TURRVXpwcXNmaTRN/cTFRaVdFdExyQV90/LmpwZw",
-	  "https://imgs.search.brave.com/52CXcy1XF4CNRBRHVaqnc0JFreQE7sdUFqNlwDC0Kig/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9m/MDcwZDEzNGE4Zjhj/MWE1YjY2MzRkZDky/YjI5YWUzMTcwZWRj/OTNiMjZiMGIzNGVi/OTc2MjlmOWMyYmE2/NWU5LzY4NzQ3NDcw/NzMzYTJmMmY2MTc1/NzQ2ODZhNzMyZTY0/NjU3NjJmNjk2ZDY3/MmY2YzZmNjc2ZjJk/NzM2ZDJlNzA2ZTY3.jpeg",
+	  // "https://imgs.search.brave.com/52CXcy1XF4CNRBRHVaqnc0JFreQE7sdUFqNlwDC0Kig/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9m/MDcwZDEzNGE4Zjhj/MWE1YjY2MzRkZDky/YjI5YWUzMTcwZWRj/OTNiMjZiMGIzNGVi/OTc2MjlmOWMyYmE2/NWU5LzY4NzQ3NDcw/NzMzYTJmMmY2MTc1/NzQ2ODZhNzMyZTY0/NjU3NjJmNjk2ZDY3/MmY2YzZmNjc2ZjJk/NzM2ZDJlNzA2ZTY3.jpeg",
     ]
   },
   {
