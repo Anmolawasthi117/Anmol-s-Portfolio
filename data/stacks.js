@@ -30,7 +30,7 @@ export const skills = [
     title: "Databases",
     stacks: [
       "https://imgs.search.brave.com/TW-0IOvYKVp4DAldVEKLCgBVOqj3Hjfu1T8Z2ceC1LI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vbW80/MjltNmI3LW1vbmdv/ZGItbG9nby1tb25n/b2RiLW9yaWdpbmFs/LXdvcmRtYXJrLWxv/Z28tZnJlZS1pY29u/LW9mLWRldmljb24u/cG5n",
-	  "https://imgs.search.brave.com/Yfdvfp7w34pYJdEQTVkfStadK3QkhuWazDs-USSPpY0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9m/aXJlYmFzZV9sb2dv/X2ljb25fMTcxMTU3/LnBuZw",
+	  // "https://imgs.search.brave.com/Yfdvfp7w34pYJdEQTVkfStadK3QkhuWazDs-USSPpY0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9m/aXJlYmFzZV9sb2dv/X2ljb25fMTcxMTU3/LnBuZw",
     "https://imgs.search.brave.com/LregwX1jyAApAgjJIeDcEz6OMTHV9CqkqHGNww5pAvY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MzBiNWNlZjEw/MTRjMGI1ZTRhOWMu/cG5n",
     "https://imgs.search.brave.com/14osNFB8UbePR5iGhs4iQ7s969an3VdTpmfVIepe3WU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L1Bvc3RncmVz/cWxfZWxlcGhhbnQu/c3Zn"
     ]
@@ -48,7 +48,7 @@ export const skills = [
 	title:"Languages",
 	stacks:[
 		"https://imgs.search.brave.com/NSvq6B_Y0ujFiVd807yFwD4uBHIHsVPRljQ4uL3-OC4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9jLWljb24t/NDU2eDUxMi1sZDlx/YXAzay5wbmc",
-		"https://imgs.search.brave.com/jmn6QZmIqtYVdmAUV22mhaJEQD8SZUxzVrfwV8YeSRw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzEx/Mi9QTkcvNTEyL3B5/dGhvbl8xODg5NC5w/bmc",
+		// "https://imgs.search.brave.com/jmn6QZmIqtYVdmAUV22mhaJEQD8SZUxzVrfwV8YeSRw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzEx/Mi9QTkcvNTEyL3B5/dGhvbl8xODg5NC5w/bmc",
 		"https://imgs.search.brave.com/bWSw7-Ni5GA7Zzsub70EPq_pdE74uEkLJHe8mMqXmyI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njgy/OTIucG5nP3NlbXQ9/YWlzX2h5YnJpZA",
 		"https://imgs.search.brave.com/cJLWSu95L0GGVTxfHTj9tczSpLR4UJZMDSj8PCmZRcA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw"
 	]
