@@ -31,19 +31,5 @@ const projects_types = [
 			"Landing Pages Reimagined: Dive into an interactive landing page experience unlike any other.",
 		],
     },
-    {
-        title : "Fun_projects",
-        route : "/Fun",
-        description: [
-			"Learning Through Play: Dive into a whimsical project designed to push boundaries and have some laughs. (Explore the Weird)",
-		],
-    },
-    {
-        title : "Portfolio",
-        route : "/Portfolio",
-        description: [
-			"Unlocking Potential: Unveiling a showcase of my skills and experience, designed to inspire and collaborate. (Let's Connect)",
-		],
-    },
 ]
 export default projects_types;
