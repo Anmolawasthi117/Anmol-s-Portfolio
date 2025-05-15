@@ -24,12 +24,12 @@ const projects_types = [
      
 		],
     },
-    {
-        title : "Landing Pages",
-        route : "/Landing_page",
-        description: [
-			"Landing Pages Reimagined: Dive into an interactive landing page experience unlike any other.",
-		],
-    },
+  //   {
+  //       title : "Landing Pages",
+  //       route : "/Landing_page",
+  //       description: [
+		// 	"Landing Pages Reimagined: Dive into an interactive landing page experience unlike any other.",
+		// ],
+  //   },
 ]
 export default projects_types;
