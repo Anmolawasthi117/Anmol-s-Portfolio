@@ -12,7 +12,7 @@ const Header = () => {
 		},
 		{
 			icon: LinkedinIcon,
-			url: "www.linkedin.com/in/anmol-awasthi-167a35294",
+			url: "www.linkedin.com/in/anmol-awasthi11117",
 		},
 		{
 			icon: InstagramIcon,
