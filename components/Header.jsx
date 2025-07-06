@@ -1,5 +1,5 @@
 import React from "react";
-import { Mail, Github, LinkedinIcon,  InstagramIcon } from "lucide-react";
+import { Mail, Github, LinkedinIcon,  InstagramIcon,CodeXml } from "lucide-react";
 import SocialLinkButton from "./SocialLinkButton";
 import Container from "./Container";
 import { ModeToggle } from "./mode-toggle";
@@ -9,6 +9,10 @@ const Header = () => {
 		{
 			icon: Github,
 			url: "https://github.com/Anmolawasthi117",
+		},
+		{
+			icon: CodeXml,
+			url: "https://leetcode.com/u/Anmolawasthi117",
 		},
 		{
 			icon: LinkedinIcon,

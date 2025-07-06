@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
 			<body className={`relative ${PJS.className}`}>
 				<ThemeProvider
 					attribute="class"
-					defaultTheme="system"
+					defaultTheme="light"
 					enableSystem
 					// disableTransitionOnChange
 				>

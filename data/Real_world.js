@@ -28,6 +28,16 @@ const real_world = [
 	// },
 	{
 		badge: "Responsive",
+		title: "Nurobots",
+		githubUrl: "https://github.com/Anmolawasthi117/Neuro-bot",
+		previewUrl: "https://neruo-bot.vercel.app/",
+		description: [
+			"Neuro Bots is the official website of the Neuro Bots Robotics Club, run by the Artificial Intelligence and Robotics Branch of Gyan Ganga Institute of Technology and Science. This site showcases our club's mission, team, and projects in the fields of AI and robotics..",
+		],
+	},
+	
+	{
+		badge: "Responsive",
 		title: "Diversity club",
 		githubUrl: "https://github.com/Anmolawasthi117/Diversity-club",
 		previewUrl: "https://diversity-club.vercel.app/",
